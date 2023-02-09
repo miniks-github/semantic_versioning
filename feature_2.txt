@@ -1,1 +1,1 @@
-Hype new feature!
+Fixed existing feature
